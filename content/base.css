@@ -1,3 +1,7 @@
+:root {
+  --my-custom-color: slategray;
+}
+
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
